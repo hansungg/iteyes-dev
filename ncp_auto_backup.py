@@ -13,8 +13,8 @@ import xml.etree.ElementTree as elemTree
 
 
 # answer key
-ACCESS_KEY = "DC4FEFBD40DF912A4FB8"
-SECRET_KEY = "8B97BA81CE99F0241995ED140687ECA85645C88B"
+ACCESS_KEY = "test1"
+SECRET_KEY = "test2"
 
 SECRET_KEY_ENCODE = bytes(SECRET_KEY, 'UTF-8')
 NCP_URL = "https://ncloud.apigw.ntruss.com"
